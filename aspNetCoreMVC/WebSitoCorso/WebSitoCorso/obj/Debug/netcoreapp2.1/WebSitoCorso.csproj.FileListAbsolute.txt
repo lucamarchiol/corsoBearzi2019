@@ -30,3 +30,4 @@ C:\Users\bearzi\mioCorsoBearzi2019\aspNetCoreMVC\WebSitoCorso\WebSitoCorso\obj\D
 C:\Users\bearzi\mioCorsoBearzi2019\aspNetCoreMVC\WebSitoCorso\WebSitoCorso\obj\Debug\netcoreapp2.1\WebSitoCorso.dll
 C:\Users\bearzi\mioCorsoBearzi2019\aspNetCoreMVC\WebSitoCorso\WebSitoCorso\obj\Debug\netcoreapp2.1\WebSitoCorso.pdb
 C:\Users\bearzi\mioCorsoBearzi2019\aspNetCoreMVC\WebSitoCorso\WebSitoCorso\obj\Debug\netcoreapp2.1\WebSitoCorso.csproj.CopyComplete
+C:\Users\bearzi\mioCorsoBearzi2019\aspNetCoreMVC\WebSitoCorso\WebSitoCorso\obj\Debug\netcoreapp2.1\Razor\Views\Home\docente.g.cshtml.cs
